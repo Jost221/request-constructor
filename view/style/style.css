@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    justify-content: space-around;
+    display: flex;
+}
+
+.container{
+    margin-top: 1.5vw;
+    height: 97vh;
+    width: 30vw;
+    background-color: black;
+    border: yellow;
+    border-radius: 15px;
+}
+
+.element{
+    margin: 5px;
+    font-size: 1.7em;
+    background-color: brown;
+}
